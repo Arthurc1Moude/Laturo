@@ -537,13 +537,9 @@ In this lesson, you learned:
 
 ## What's Next?
 
-Congratulations! You've completed the first 5 lessons. You now have the foundation to start building more complex sentences and conversations!
+Now that you can ask all types of questions, let's learn how to express actions and activities!
 
-**Continue Learning:**
-- Review Lessons 1-5 regularly
-- Practice daily conversations
-- Start reading simple Laturo texts
-- Join the Laturo community discussions
+**Next Lesson:** [Lesson 6: Regular Verbs and Actions](lesson6)
 
 ---
 
