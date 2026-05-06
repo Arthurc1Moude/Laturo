@@ -48,7 +48,7 @@ What is this?
 Vo ista?
 What is that?
 
-Vo to estar haČerelo?
+Vo to estar hačerelo?
 What are you doing?
 ```
 
