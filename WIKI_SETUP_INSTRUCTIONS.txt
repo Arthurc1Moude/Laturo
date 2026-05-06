@@ -1,0 +1,51 @@
+HOW TO INITIALIZE AND UPLOAD WIKI PAGES
+=========================================
+
+The wiki is enabled but needs to be initialized manually first.
+
+STEP 1: Initialize the Wiki
+----------------------------
+1. Go to: https://github.com/Arthurc1Moude/Laturo/wiki
+2. Click "Create the first page"
+3. Title: "home"
+4. Copy content from: wiki/home.md
+5. Click "Save Page"
+
+STEP 2: Clone the Wiki Repository
+----------------------------------
+After creating the first page, run:
+
+cd ~/Lature
+git clone https://github.com/Arthurc1Moude/Laturo.wiki.git laturo-wiki
+cd laturo-wiki
+
+STEP 3: Copy Wiki Files
+------------------------
+cp ../wiki/home.md Home.md
+cp ../wiki/culturalnotes.md culturalnotes.md
+cp ../wiki/lessons/Lesson1.md lessons-lesson1.md
+
+STEP 4: Commit and Push
+------------------------
+git add .
+git commit -m "Add comprehensive wiki pages"
+git push
+
+ALTERNATIVE: Use GitHub Web Interface
+--------------------------------------
+You can also create each page manually:
+
+1. Go to https://github.com/Arthurc1Moude/Laturo/wiki
+2. Click "New Page"
+3. For each file in wiki/:
+   - Title: filename without .md (e.g., "culturalnotes")
+   - Content: copy from the file
+   - Click "Save Page"
+
+FILES TO UPLOAD:
+----------------
+- wiki/home.md → Home page
+- wiki/culturalnotes.md → Cultural Notes page
+- wiki/lessons/Lesson1.md → Lesson 1 page
+
+Note: GitHub wiki uses the first page as "Home" automatically.
