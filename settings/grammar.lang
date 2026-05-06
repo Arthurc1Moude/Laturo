@@ -1,0 +1,285 @@
+# Laturo Grammar System (Rochopelic Root System)
+
+## Capitalization Rules (IMPORTANT)
+1. First letter of sentence: ALWAYS capitalized
+   Example: Mo estar bono. (I am well.)
+   
+2. Proper names (people, places): ALWAYS capitalized
+   Example: Kiro, Maria, Laturo, Paris, Tokyo
+   CULTURAL NOTE: Not capitalizing person's names or given names is viewed as DISRESPECTFUL
+   This is considered an insult to the person and shows lack of respect
+   WRONG (disrespectful): kiro, maria, john
+   CORRECT (respectful): Kiro, Maria, John
+   
+3. Middle of words: NEVER capitalized
+   WRONG: manČar, dečIdar, koČinar
+   CORRECT: mančar, dečidar, kočinar
+   
+4. All other words: lowercase only
+   Example: mo, to, estar, senar, bono, malo
+   
+5. Acronyms: Can be all caps or lowercase
+   Example: DNA or dna, RNA or rna, USB or usb
+   
+6. Brand names and proper nouns: Capitalize as appropriate
+   Example: Google, Firefox, Chrome, DuckDuckGo
+
+## Word Order
+Basic: Subject-Verb-Object (SVO)
+Questions: Verb-Subject-Object (VSO) or use question particle "vo"
+
+## Nouns
+
+### Gender
+Laturo has 3 genders:
+- Masculine: -o ending (vimo = man)
+- Feminine: -a ending (vima = woman)
+- Neutral: -e ending (vime = person)
+
+### Number
+- Singular: base form
+- Plural: add -r suffix (vimo → vimor = men)
+- Collective: add -ná suffix (vimo → vimoná = mankind)
+
+### Cases
+1. Nominative (subject): base form
+2. Accusative (direct object): add prefix "el-" or use particle "ela"
+3. Genitive (possession): add suffix "-ko" or use particle "do"
+4. Dative (indirect object): add suffix "-ti" or use particle "ti"
+5. Locative (location): add suffix "-pe" or use particle "pe"
+
+## Verbs
+
+### Tenses
+- Present: base + -á (tinará = speaks/is speaking)
+- Past: base + -ó (tinaró = spoke)
+- Future: base + -é (tinaré = will speak)
+- Present Perfect: base + -ála (tinarála = has spoken)
+- Past Perfect: base + -óla (tinaróla = had spoken)
+- Future Perfect: base + -éla (tinaréla = will have spoken)
+
+### Moods
+- Indicative: standard conjugation
+- Subjunctive: add prefix "si-" (sitinará = may speak)
+- Imperative: base form + -i (tinari = speak!)
+- Conditional: base + -ía (tinaría = would speak)
+
+### Aspects
+- Progressive: add "vim" before verb (vim tinará = is speaking)
+- Habitual: add "kem" before verb (kem tinará = speaks regularly)
+- Perfective: standard past tense
+- Imperfective: past + "vim" (vim tinaró = was speaking)
+
+### Voice
+- Active: standard form
+- Passive: add prefix "pa-" (patinará = is spoken)
+- Reflexive: add prefix "re-" (retinará = speaks to oneself)
+
+### Infinitive
+Base form + -ar (tinár = to speak)
+
+## Pronouns
+
+### Personal Pronouns
+- 1st singular: mo (I/me)
+- 2nd singular: to (you)
+- 3rd singular masc: lo (he/him)
+- 3rd singular fem: la (she/her)
+- 3rd singular neut: le (it/they singular)
+- 1st plural: mor (we/us)
+- 2nd plural: tor (you all)
+- 3rd plural: lor (they/them)
+
+### Possessive Pronouns
+Add -ko suffix:
+- moko (my/mine)
+- toko (your/yours)
+- loko (his)
+- lako (her/hers)
+- leko (its)
+- morko (our/ours)
+- torko (your/yours plural)
+- lorko (their/theirs)
+
+### Demonstrative Pronouns
+- esta (this)
+- ista (that)
+- estar (these)
+- istar (those)
+
+### Interrogative Pronouns
+- vo (what/which - general question marker)
+- voka (who)
+- voke (what)
+- voki (when)
+- voko (where)
+- voku (why)
+- voká (how)
+
+## Adjectives
+
+### Position
+Before noun (descriptive) or after noun (restrictive)
+
+### Agreement
+Must agree with noun in gender and number:
+- Masculine: -o (varmo = warm-masc)
+- Feminine: -a (varma = warm-fem)
+- Neutral: -e (varme = warm-neut)
+- Plural: add -r (varmor, varmar, varmer)
+
+### Comparison
+- Positive: base form (varmo = warm)
+- Comparative: add prefix "mi-" (mivarmo = warmer)
+- Superlative: add prefix "ma-" (mavarmo = warmest)
+
+## Adverbs
+Form: adjective + -ná suffix
+Example: varmo → varminá (warmly)
+
+## Prepositions
+- do (of, from, about)
+- ti (to, for)
+- pe (in, at, on)
+- ko (with)
+- so (without)
+- de (by, through)
+- vo (for questions)
+
+## Conjunctions
+- e (and)
+- o (or)
+- ma (but)
+- ke (that, because)
+- si (if)
+- kando (when)
+- mento (while)
+
+## Particles
+- vo (question marker - makes statement into question)
+- na (negation - not)
+- ja (affirmation - yes)
+- ne (emphasis)
+- li (politeness marker)
+
+## Sentence Structure
+
+### Declarative
+Subject + Verb + Object
+Example: Mo tinará laturo. (I speak Laturo.)
+
+### Interrogative
+Vo + Subject + Verb + Object?
+OR: Verb + Subject + Object + vo?
+Example: Vo mo tinará laturo? / Tinará mo laturo vo? (Do I speak Laturo?)
+
+### Negative
+Subject + na + Verb + Object
+Example: Mo na tinará laturo. (I don't speak Laturo.)
+
+### Imperative
+Verb-imperative + (Object)
+Example: Tinari laturo! (Speak Laturo!)
+
+## Word Formation (Rochopelic Root System)
+
+### Root Structure
+Most roots are CVC or CVCV patterns:
+- tin- (speak/language)
+- var- (warm/heat)
+- vim- (person/human)
+- kel- (good/well)
+- mar- (big/great)
+
+### Derivation
+- Noun from verb: verb root + -o/-a/-e
+- Verb from noun: noun root + -ar
+- Adjective from noun: noun root + gender ending
+- Adverb from adjective: adjective + -ná
+
+### Compounding
+Root1 + Root2 = compound word
+Example: tin (speak) + vim (person) = tinvim (speaker)
+
+
+## Capitalization Examples
+
+### Correct Usage:
+Mo nomo senar Kiro.
+(My name is Kiro.)
+- "Mo" capitalized (start of sentence)
+- "Kiro" capitalized (proper name)
+- All other words lowercase
+
+Maria vivar pe Paris.
+(Maria lives in Paris.)
+- "Maria" capitalized (person's name)
+- "Paris" capitalized (place name)
+- All other words lowercase
+
+Laturo senar belo lingvo.
+(Laturo is a beautiful language.)
+- "Laturo" capitalized (language name/proper noun)
+- All other words lowercase
+
+### Incorrect Usage (DO NOT USE):
+❌ mo nomo senar kiro. (missing capitals)
+❌ Mo Nomo Senar Kiro. (too many capitals)
+❌ Mo nomo senar KIro. (capital in middle of name)
+❌ Mo manČar panelo. (capital in middle of word)
+❌ Mo DečIdar irar. (capitals in middle of word)
+
+### Proper Names Include:
+- Personal names: Kiro, Maria, Juan, Sofia, Ahmed
+- Place names: Paris, Tokyo, London, Roma, Beijing
+- Country names: Franča, Hispano, Japono, Ameriko
+- Language names: Laturo, Englišo, Español, Français
+- Company names: Microsoft, Google, Amazon
+- Brand names: Toyota, Samsung, Apple
+- Book/movie titles: First word capitalized
+- Days/months: Can be capitalized or lowercase (flexible)
+
+### Regular Words (Always Lowercase):
+- Pronouns: mo, to, lo, la, le, mor, tor, lor
+- Verbs: estar, senar, avar, fačar, venar, irar
+- Adjectives: bono, malo, belo, grando, peto
+- Nouns (common): panelo, laktelo, domelo, arbelo
+- Adverbs: rapido, lento, bono, malo
+- Prepositions: pe, ti, do, ko, so
+- Conjunctions: e, o, ma, ke, si
+
+### Sentence Examples:
+Salut! Mo nomo senar Kiro e mo vivar pe Tokyo.
+(Hello! My name is Kiro and I live in Tokyo.)
+
+Maria e Juan parlar Laturo bono.
+(Maria and Juan speak Laturo well.)
+
+Vo to volar irar ti Paris o London?
+(Do you want to go to Paris or London?)
+
+Moko amiko Ahmed labar pe Microsoft.
+(My friend Ahmed works at Microsoft.)
+
+## Special Cases:
+
+### Titles and Honorifics:
+- Can be capitalized: Doktoro Silva, Profesoro Martinez
+- Or lowercase: doktoro silva, profesoro martinez
+- Both acceptable, but be consistent
+
+### Acronyms and Abbreviations:
+- Technical terms: DNA, RNA, USB, HTTP, CPU
+- Can also be: dna, rna, usb, http, cpu
+- Both forms acceptable
+
+### Emphasis:
+- Do NOT use capitals for emphasis
+- Use particles or word order instead
+- WRONG: Mo AMAR esta!
+- CORRECT: Mo amar esta multo! (I love this much!)
+
+### Internet/Informal Writing:
+- Follow same rules as formal writing
+- No "all caps" for shouting
+- No random capitalization for style

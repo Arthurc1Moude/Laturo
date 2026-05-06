@@ -1,0 +1,22 @@
+# Ignore markdown files
+*.md
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignore build artifacts
+*.o
+*.pyc
+__pycache__/

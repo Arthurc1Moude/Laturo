@@ -1,0 +1,54 @@
+LATURO LANGUAGE
+===============
+
+Laturo (Lature in English) is a constructed language (conlang) using the 
+Rochopelic Root System (also called The Ropelic Spelling System).
+
+LANGUAGE STRUCTURE
+------------------
+- Root System: Rochopelic (independent, not derived from Latin/English/Spanish/French)
+- Alphabet: 26 basic letters + 10 extended characters (á é í ó ú ñ ç ü ö ä)
+- Grammar: 6 cases, 6 tenses, 4 moods, 3 genders
+- Vocabulary: 10,000+ words for professional and daily conversations
+- Word Order: Subject-Verb-Object (SVO)
+
+FILE STRUCTURE
+--------------
+/laturo/
+  - main.lang: File structure documentation
+  - list.sp: Pure file list
+
+/settings/
+  - alphabits.lang: Complete alphabet and character system
+  - grammar.lang: Complete grammar rules and structure
+  - words.lang: 10,000+ vocabulary words
+  - oldlist.lang: Archaic/obsolete words (pre-1900s-2000s)
+  - banned.lang: Moderation guidelines
+  - dataset.lang: AI training conversation examples
+
+CAPITALIZATION RULES
+---------------------
+- First letter of sentences: ALWAYS capitalized
+- Person's names / Given names: ALWAYS capitalized (NOT capitalizing is DISRESPECTFUL)
+- Middle of words: NEVER capitalized
+- All other words: lowercase only
+
+EXAMPLE SENTENCE
+----------------
+Varminá do ela vo vim tinará?
+(How do you speak this language?)
+
+COMMUNITY
+---------
+- Suggestions: Open an issue on GitHub
+- Discussions: Use GitHub Discussions or designated community forums
+- Contributions: Suggestions only (no direct edits)
+
+COPYRIGHT
+---------
+All Rights Reserved. See LICENSE file for details.
+No copying, modification, or redistribution permitted.
+
+REPOSITORY
+----------
+https://github.com/Laturo

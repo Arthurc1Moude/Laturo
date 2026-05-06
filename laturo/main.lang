@@ -1,0 +1,61 @@
+# Laturo Language Main Configuration File
+# This file describes all language component files and their purposes
+# Syntax: [filename] :: [description] :: [category] :: [status]
+
+## Core Language Files
+
+alphabits.lang :: Alphabet and character system for Laturo including basic letters (a-z), extended characters (á é í ó ú ñ ç ü ö ä), pronunciation guide, consonant clusters, letter frequency, writing direction, and capitalization rules :: phonetics-orthography :: active
+
+grammar.lang :: Complete grammar system including word order (SVO), noun genders (masculine -o, feminine -a, neutral -e), number (singular/plural), cases (nominative, accusative, genitive, dative, locative), verb tenses (present, past, future, perfect forms), moods (indicative, subjunctive, imperative, conditional), aspects (progressive, habitual, perfective, imperfective), voice (active, passive, reflexive), pronouns, adjectives, adverbs, prepositions, conjunctions, particles, sentence structures, and Rochopelic root formation rules :: syntax-morphology :: active
+
+words.lang :: Primary vocabulary dictionary with 5000+ words covering pronouns, numbers, time, family, body parts, nature, animals, food, colors, directions, verbs, adjectives, phrases, plants, buildings, rooms, insects, birds, musical instruments, tools, professions, vehicles, technology, diseases, emotions, weather, sports, furniture, and specialized terminology :: lexicon-primary :: active
+
+oldlist.lang :: Archaic and obsolete vocabulary that fell out of use after 1900-2000s including old pronouns (thú, yé), obsolete verb forms (tináre, vivére), old accented variants (mó, tó, ló), archaic family terms, medieval weapons, obsolete transportation, archaic clothing, obsolete currency, archaic medical terms, obsolete technology, archaic measurements, obsolete occupations, and archaic expressions :: lexicon-historical :: reference
+
+banned.lang :: List of offensive, inappropriate, and culturally sensitive terms that are not part of official Laturo lexicon including profanity, vulgar terms, slurs, discriminatory language, taboo expressions, and usage guidelines for respectful communication :: moderation-guidelines :: active
+
+dataset.lang :: AI training dataset with 15 conversation examples demonstrating natural Laturo dialogue including greetings, questions, daily conversations, descriptions, feelings, complex discussions, language learning scenarios, and cultural exchanges with translations and grammar pattern demonstrations :: training-corpus :: active
+
+## File Categories
+# phonetics-orthography: Sound system, writing system, pronunciation
+# syntax-morphology: Grammar rules, word formation, sentence structure
+# lexicon-primary: Main vocabulary in current use
+# lexicon-historical: Archaic and obsolete terms
+# moderation-guidelines: Content policy and language standards
+# training-corpus: Example texts for learning and AI training
+
+## File Status
+# active: Currently in use, regularly updated
+# reference: Preserved for historical/academic purposes
+# deprecated: No longer recommended for use
+# experimental: Under development or testing
+
+## Rochopelic Root System
+# The Laturo language uses the Rochopelic Root System for word formation
+# Root patterns: CVC (consonant-vowel-consonant) and CVCV structures
+# Example roots: tin- (speak), var- (warm), vim- (person), kel- (good)
+# Derivation: Roots combine with affixes to create related words
+# Consistency: Related concepts share root elements for easy learning
+
+## Language Statistics
+# Total active vocabulary: ~5000+ words
+# Archaic vocabulary: ~400+ words
+# Conversation examples: 15 dialogues
+# Grammar rules: Complete system with 6 cases, 6 tenses, 4 moods
+# Alphabet: 26 basic + 10 extended characters
+# Root patterns: CVC, CVCV primary structures
+
+## Usage Notes
+# Modern speakers use settings/words.lang for everyday communication
+# settings/oldlist.lang is for reading historical texts and literature
+# settings/grammar.lang provides complete structural rules
+# settings/dataset.lang offers practical conversation examples
+# settings/alphabits.lang defines proper pronunciation and spelling
+# settings/banned.lang ensures respectful and inclusive communication
+
+## Version Information
+# Language: Laturo (Lature in English)
+# Writing System: Rochopelic Spelling System
+# Script: Latin alphabet with extensions
+# Created: 2026
+# Status: Active constructed language (conlang)
