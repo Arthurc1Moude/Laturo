@@ -364,7 +364,7 @@ In this lesson, you learned:
 
 Now that you can greet people, let's learn the most important verb in Laturo!
 
-**Next Lesson:** [Lesson 4: The Verb "estar" (to be)](lesson4)
+**Next Lesson:** [Lesson 4: The Verb "estar" (to be)](Lesson-4)
 
 ---
 

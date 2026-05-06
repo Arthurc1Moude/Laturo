@@ -348,7 +348,7 @@ In this lesson, you learned:
 
 Now that you know pronouns, you're ready to learn numbers!
 
-**Next Lesson:** [Lesson 2: Numbers and Counting](lesson2)
+**Next Lesson:** [Lesson 2: Numbers and Counting](Lesson-2)
 
 ---
 

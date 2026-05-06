@@ -361,7 +361,7 @@ In this lesson, you learned:
 
 Now that you can count, let's learn how to greet people properly!
 
-**Next Lesson:** [Lesson 3: Greetings and Politeness](lesson3)
+**Next Lesson:** [Lesson 3: Greetings and Politeness](Lesson-3)
 
 ---
 

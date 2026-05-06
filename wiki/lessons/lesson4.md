@@ -452,7 +452,7 @@ In this lesson, you learned:
 
 Now that you can use "estar", let's learn how to ask all kinds of questions!
 
-**Next Lesson:** [Lesson 5: Basic Questions](lesson5)
+**Next Lesson:** [Lesson 5: Basic Questions](Lesson-5)
 
 ---
 

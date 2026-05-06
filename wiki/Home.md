@@ -34,25 +34,25 @@ Laturo stands apart from other constructed languages in several key ways:
 ## Quick Navigation
 
 ### For Beginners
-- **[Lesson 1: First Words](lessons/lesson1)** - Pronouns and basic words
-- **[Lesson 2: Numbers and Counting](lessons/lesson2)** - Numbers 0-100
-- **[Lesson 3: Greetings and Politeness](lessons/lesson3)** - Social interactions
-- **[Lesson 4: The Verb "estar"](lessons/lesson4)** - To be
-- **[Lesson 5: Basic Questions](lessons/lesson5)** - Asking questions
+- **[Lesson 1: First Words](Lesson-1)** - Pronouns and basic words
+- **[Lesson 2: Numbers and Counting](Lesson-2)** - Numbers 0-100
+- **[Lesson 3: Greetings and Politeness](Lesson-3)** - Social interactions
+- **[Lesson 4: The Verb "estar"](Lesson-4)** - To be
+- **[Lesson 5: Basic Questions](Lesson-5)** - Asking questions
 
 ### Intermediate Lessons
-- **[Lesson 6: Common Verbs](lessons/lesson6)** - Essential verbs
-- **[Lesson 7: Nouns and Gender](lessons/lesson7)** - Noun system
-- **[Lesson 8: Adjectives](lessons/lesson8)** - Describing things
-- **[Lesson 9: Possessives](lessons/lesson9)** - My, your, his, her
-- **[Lesson 10: Simple Sentences](lessons/lesson10)** - Building sentences
+- **[Lesson 6: Common Verbs](Lesson-6)** - Essential verbs
+- **[Lesson 7: Nouns and Gender](Lesson-7)** - Noun system
+- **[Lesson 8: Adjectives](Lesson-8)** - Describing things
+- **[Lesson 9: Possessives](Lesson-9)** - My, your, his, her
+- **[Lesson 10: Simple Sentences](Lesson-10)** - Building sentences
 
 ### Advanced Topics
-- **[Lesson 11: Verb Tenses](lessons/lesson11)** - Past, present, future
-- **[Lesson 12: Cases](lessons/lesson12)** - Grammatical cases
-- **[Lesson 13: Word Formation](lessons/lesson13)** - Creating new words
-- **[Lesson 14: Complex Sentences](lessons/lesson14)** - Advanced grammar
-- **[Lesson 15: Conversations](lessons/lesson15)** - Real dialogues
+- **[Lesson 11: Verb Tenses](Lesson-11)** - Past, present, future
+- **[Lesson 12: Cases](Lesson-12)** - Grammatical cases
+- **[Lesson 13: Word Formation](Lesson-13)** - Creating new words
+- **[Lesson 14: Complex Sentences](Lesson-14)** - Advanced grammar
+- **[Lesson 15: Conversations](Lesson-15)** - Real dialogues
 
 ### Reference Materials
 - **[Alphabet and Pronunciation](alphabet)** - Complete sound system
@@ -190,7 +190,7 @@ See the [LICENSE](../LICENSE) file for complete details.
 
 ## Getting Started
 
-Ready to begin your journey with Laturo? Head to **[Lesson 1: First Words](lessons/lesson1)** to take your first steps!
+Ready to begin your journey with Laturo? Head to **[Lesson 1: First Words](Lesson-1)** to take your first steps!
 
 ---
 
