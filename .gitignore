@@ -1,5 +1,6 @@
-# Ignore markdown files
+# Ignore markdown files (except wiki)
 *.md
+!wiki/**/*.md
 
 # Ignore temporary files
 *.tmp
