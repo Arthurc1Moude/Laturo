@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" rx="40" fill="#2E5090"/>
+  
+  <!-- Large "L" -->
+  <path d="M 60 50 L 60 200 L 190 200 L 190 170 L 90 170 L 90 50 Z" 
+        fill="#FFFFFF"/>
+  
+  <!-- Three dots (Rochopelic accent) -->
+  <circle cx="140" cy="80" r="8" fill="#FFD700"/>
+  <circle cx="170" cy="110" r="8" fill="#FFD700"/>
+  <circle cx="140" cy="140" r="8" fill="#FFD700"/>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="#2E5090" stroke="#1A3050" stroke-width="8"/>
+  
+  <!-- Inner Circle -->
+  <circle cx="256" cy="256" r="200" fill="#3D6BB3" opacity="0.8"/>
+  
+  <!-- Stylized "L" for Laturo -->
+  <path d="M 180 150 L 180 360 L 340 360 L 340 320 L 220 320 L 220 150 Z" 
+        fill="#FFFFFF" stroke="#E0E0E0" stroke-width="4"/>
+  
+  <!-- Accent dots representing Rochopelic system -->
+  <circle cx="280" cy="200" r="12" fill="#FFD700"/>
+  <circle cx="320" cy="240" r="12" fill="#FFD700"/>
+  <circle cx="280" cy="280" r="12" fill="#FFD700"/>
+  
+  <!-- Decorative arc -->
+  <path d="M 150 256 Q 256 180, 362 256" 
+        fill="none" stroke="#FFD700" stroke-width="3" opacity="0.6"/>
+  
+  <!-- Text "LATURO" curved at bottom -->
+  <defs>
+    <path id="curve" d="M 140 400 Q 256 420, 372 400"/>
+  </defs>
+  <text font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">
+    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+      LATURO
+    </textPath>
+  </text>
+</svg>
