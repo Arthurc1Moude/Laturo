@@ -34,7 +34,7 @@ Laturo stands apart from other constructed languages in several key ways:
 ## Quick Navigation
 
 ### For Beginners
-- **[Lesson 1: First Words](Lesson-1)** - Pronouns and basic words
+- **[Lesson 1: First Words and Pronouns](Lesson-1)** - Pronouns and basic words
 - **[Lesson 2: Numbers and Counting](Lesson-2)** - Numbers 0-100
 - **[Lesson 3: Greetings and Politeness](Lesson-3)** - Social interactions
 - **[Lesson 4: The Verb "estar"](Lesson-4)** - To be
@@ -190,7 +190,7 @@ See the [LICENSE](../LICENSE) file for complete details.
 
 ## Getting Started
 
-Ready to begin your journey with Laturo? Head to **[Lesson 1: First Words](Lesson-1)** to take your first steps!
+Ready to begin your journey with Laturo? Head to **[Lesson 1: First Words and Pronouns](Lesson-1)** to take your first steps!
 
 ---
 
