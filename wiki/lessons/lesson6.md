@@ -608,7 +608,7 @@ You now have the foundation to:
 
 **🎓 You're Ready to Graduate!**
 
-**Next Step:** [Graduation & What's Next](END)
+**Final Overview Summary:** [Graduation & What's Next](END)
 
 ---
 
