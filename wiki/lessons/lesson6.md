@@ -589,7 +589,9 @@ In this lesson, you learned:
 
 ## What's Next?
 
-Congratulations! You've now completed 6 comprehensive lessons in Laturo. You have learned:
+Congratulations! You've now completed all 6 foundational lessons in Laturo!
+
+You have learned:
 - Pronouns and basic words
 - Numbers and counting
 - Greetings and politeness
@@ -604,12 +606,9 @@ You now have the foundation to:
 - Ask and answer questions
 - Express wants and needs
 
-**Continue Your Journey:**
-- Review all 6 lessons regularly
-- Practice speaking daily
-- Try writing short paragraphs in Laturo
-- Find a language partner
-- Explore more advanced grammar topics
+**🎓 You're Ready to Graduate!**
+
+**Next Step:** [Graduation & What's Next](END)
 
 ---
 
