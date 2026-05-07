@@ -1,5 +1,7 @@
 # Welcome to Laturo Language Wiki
 
+<img src="../Ropelican_Flag.svg" alt="Ropelican Flag" width="200"/>
+
 ![Laturo Icon](../laturo-icon-simple.svg)
 
 ## Introduction to Laturo
