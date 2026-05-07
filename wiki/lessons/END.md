@@ -177,3 +177,5 @@ Continue your learning journey:
 ---
 
 *Remember: Every expert was once a beginner. You're on your way!* 🌟
+
+[<img src="../../laturo-icon.svg" alt="Laturo" width="20"/>](https://github.com/Arthurc1Moude/Laturo)
