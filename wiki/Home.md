@@ -195,3 +195,5 @@ Ready to begin your journey with Laturo? Head to **[Lesson 1: First Words and Pr
 ---
 
 *Velkomo ti Laturo! (Welcome to Laturo!)*
+
+<img src="../laturo-icon-simple.svg" alt="L" width="20"/>
