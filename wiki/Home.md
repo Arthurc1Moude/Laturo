@@ -2,8 +2,6 @@
 
 <img src="../Ropelican_Flag.svg" alt="Ropelican Flag" width="200"/>
 
-![Laturo Icon](../laturo-icon-simple.svg)
-
 ## Introduction to Laturo
 
 **Laturo** (pronounced: lah-TOO-roh; called "Lature" in English) is a fully independent constructed language (conlang) created using the **Rochopelic Root System** (also known as the Ropelic Spelling System). Unlike many constructed languages that borrow heavily from Latin, Romance languages, or Germanic languages, Laturo is built from the ground up with its own unique linguistic roots and structure.
